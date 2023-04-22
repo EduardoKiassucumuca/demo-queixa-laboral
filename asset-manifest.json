@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/demo-queixa-laboral%20/static/css/main.7674e85f.css",
-    "main.js": "/demo-queixa-laboral%20/static/js/main.56ae5421.js",
-    "static/js/787.ff7a7c79.chunk.js": "/demo-queixa-laboral%20/static/js/787.ff7a7c79.chunk.js",
-    "static/media/Eduardo.jpg": "/demo-queixa-laboral%20/static/media/Eduardo.7a3465b8c885f25a5710.jpg",
-    "static/media/noticia1.jfif": "/demo-queixa-laboral%20/static/media/noticia1.6c79338427625833f1a6.jfif",
-    "static/media/lei_trabalho.jfif": "/demo-queixa-laboral%20/static/media/lei_trabalho.589eb509e44fc882ff1b.jfif",
-    "index.html": "/demo-queixa-laboral%20/index.html",
-    "main.7674e85f.css.map": "/demo-queixa-laboral%20/static/css/main.7674e85f.css.map",
-    "main.56ae5421.js.map": "/demo-queixa-laboral%20/static/js/main.56ae5421.js.map",
-    "787.ff7a7c79.chunk.js.map": "/demo-queixa-laboral%20/static/js/787.ff7a7c79.chunk.js.map"
+    "main.css": "/demo-queixa-laboral/static/css/main.7674e85f.css",
+    "main.js": "/demo-queixa-laboral/static/js/main.34b0a00d.js",
+    "static/js/787.ff7a7c79.chunk.js": "/demo-queixa-laboral/static/js/787.ff7a7c79.chunk.js",
+    "static/media/Eduardo.jpg": "/demo-queixa-laboral/static/media/Eduardo.7a3465b8c885f25a5710.jpg",
+    "static/media/noticia1.jfif": "/demo-queixa-laboral/static/media/noticia1.6c79338427625833f1a6.jfif",
+    "static/media/lei_trabalho.jfif": "/demo-queixa-laboral/static/media/lei_trabalho.589eb509e44fc882ff1b.jfif",
+    "index.html": "/demo-queixa-laboral/index.html",
+    "main.7674e85f.css.map": "/demo-queixa-laboral/static/css/main.7674e85f.css.map",
+    "main.34b0a00d.js.map": "/demo-queixa-laboral/static/js/main.34b0a00d.js.map",
+    "787.ff7a7c79.chunk.js.map": "/demo-queixa-laboral/static/js/787.ff7a7c79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7674e85f.css",
-    "static/js/main.56ae5421.js"
+    "static/js/main.34b0a00d.js"
   ]
 }
